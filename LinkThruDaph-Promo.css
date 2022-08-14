@@ -730,7 +730,6 @@
     grid-template-columns: calc(50% - 9.5px) calc(50% - 9.5px);
     min-height: 442px;
     grid-gap: 19px 19px;
-    grid-auto-columns: calc(50% - 9.5px);
   }
 
   .u-section-10 .u-container-layout-1 {
@@ -765,7 +764,6 @@
 
   .u-section-10 .u-repeater-1 {
     grid-template-columns: 100%;
-    grid-auto-columns: calc(100% - 0px);
   }
 
   .u-section-10 .u-text-1 {
@@ -1037,7 +1035,6 @@
 
 .u-section-14 .u-group-1 {
   width: 342px;
-  height: auto;
   background-image: none;
   min-height: 212px;
   margin: -118px auto 60px 128px;
@@ -1110,7 +1107,6 @@
   .u-section-14 .u-group-1 {
     margin-top: -121px;
     margin-left: 31px;
-    height: auto;
   }
 }
 
